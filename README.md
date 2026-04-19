@@ -18,7 +18,7 @@ My current focus is developing practical skills in neuroimaging analysis, reprod
 
 A collection of training and methods-focused repositories demonstrating applied neuroimaging workflows and computational skills.
 
-### Cognitive Neuroplasticity Lab
+### [Cognitive Neuroplasticity Lab](https://github.com/cognitive-neuroplasticity-lab)
 
 A developing research portfolio centred on cognition, neuroplasticity, altered states, and future PhD-oriented project ideas.
 
